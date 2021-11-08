@@ -442,6 +442,7 @@ function gymData() {
     {name: "Windmill", district: "Rothensee", address: "Gewerbegebiet Nord", location: [52.2007, 11.6699]},
     {name: "Spielplatz Danziger Dorf", district: "Kannenstieg", address: "Wenddorfer Weg 12", location: [52.167056,11.618506]},
     {name: "MVB Farbpalette", district: "Reform", address: "Leipziger Chaussee 106", location: [52.087537,11.621072]},
+    {name: "Fensterkunst 'Magdeburger Dom'", district: "Stadtfeld", address: "Albert-Vater-Straße 70", location: [52.140853,11.616679]},
     //{name: "", district: "", address: "", location: []},
   ],
     // local names for Level 12 cells
